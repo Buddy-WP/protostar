@@ -162,6 +162,7 @@ else
 					</div>
 				</div>
 			</header>
+			<h1>This is something new</h1>
 			<?php if ($this->countModules('position-1')) : ?>
 				<nav class="navigation" role="navigation">
 					<div class="navbar pull-left">
